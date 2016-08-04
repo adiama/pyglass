@@ -1,0 +1,7 @@
+# -*- coding: utf-8 -*-
+
+from app.core.Model import Model
+
+class <Name>Model(Model):
+    def __init__(self):
+        #Your code here...

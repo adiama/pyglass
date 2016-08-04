@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+
+from tkinter import *
+
+from app.core.View import View
+
+class <Name>View(View):
+    def __call__(self, master = None):
+        View.__init__(self, master)
+        #Your code here...
